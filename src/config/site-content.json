@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"title": "64m's blog",
+		"title": "lsm64m's blog",
 		"description": "64m 的个人博客，记录、分享计算机学习知识。",
 		"username": "lsm64m"
 	},
@@ -50,9 +50,9 @@
 		},
 		{
 			"id": "juejin",
-			"type": "bilibili",
-			"value": "https://space.bilibili.com/183677739?spm_id_from=333.788.0.0",
-			"label": "BiliBili",
+			"type": "juejin",
+			"value": "https://juejin.cn/user/2427311675422382",
+			"label": "稀土掘金",
 			"order": 2
 		},
 		{
