@@ -1,0 +1,11 @@
+{
+  "title": "1.string",
+  "tags": [
+    "STL"
+  ],
+  "date": "2026-02-20T16:19",
+  "summary": "#include <string>本质是一个类，很多操作都提供const string&和const char*两种形式，分别对应 C++ 的 string 类型和 C 语言的字符串。",
+  "cover": "/blogs/STL-string/add722fe6f25caed.png",
+  "hidden": false,
+  "category": ""
+}
