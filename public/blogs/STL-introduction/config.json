@@ -1,0 +1,11 @@
+{
+  "title": "0.Introduction",
+  "tags": [
+    "STL"
+  ],
+  "date": "2026-02-20T16:15",
+  "summary": "本系列笔记主要面向蓝桥杯 C++ 比赛，因为在实际比赛中会大量用到 STL（Standard Template Library，标准模板库）中的内容。",
+  "cover": "/blogs/STL-introduction/add722fe6f25caed.png",
+  "hidden": false,
+  "category": ""
+}
