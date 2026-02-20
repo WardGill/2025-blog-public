@@ -1,0 +1,11 @@
+{
+  "title": "4.queue",
+  "tags": [
+    "STL"
+  ],
+  "date": "2026-02-20T19:56",
+  "summary": "#include <queue>是 C++ STL 中提供的队列容器。",
+  "cover": "/blogs/STL-queue/add722fe6f25caed.png",
+  "hidden": false,
+  "category": ""
+}
