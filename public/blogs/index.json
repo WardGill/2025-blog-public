@@ -1,5 +1,17 @@
 [
   {
+    "slug": "STL-vector",
+    "title": "2.vector",
+    "tags": [
+      "STL"
+    ],
+    "date": "2026-02-20T16:23",
+    "summary": "#include <vector>是 C++ STL 中最常用的容器之一，通常用来代替数组。",
+    "cover": "/blogs/STL-vector/add722fe6f25caed.png",
+    "hidden": false,
+    "category": ""
+  },
+  {
     "slug": "STL-string",
     "title": "1.string",
     "tags": [
