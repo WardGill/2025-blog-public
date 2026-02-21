@@ -1,5 +1,17 @@
 [
   {
+    "slug": "STL-list",
+    "title": "5.List",
+    "tags": [
+      "STL"
+    ],
+    "date": "2026-02-22T00:43",
+    "summary": "#include <list>是 C++ STL 中提供的双向链表容器。",
+    "cover": "/blogs/STL-list/add722fe6f25caed.png",
+    "hidden": false,
+    "category": ""
+  },
+  {
     "slug": "STL-queue",
     "title": "4.queue",
     "tags": [
